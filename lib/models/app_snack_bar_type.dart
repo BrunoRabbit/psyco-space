@@ -1,0 +1,4 @@
+enum AppSnackBarType {
+  success,
+  error,
+}

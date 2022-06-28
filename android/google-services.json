@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295940652160",
+    "project_id": "psycospace-mobile",
+    "storage_bucket": "psycospace-mobile.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295940652160:android:34dcccb7e12281352a7a65",
+        "android_client_info": {
+          "package_name": "com.example.psyco_space"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295940652160-7jvb5lp32ut3to78j9jn1v28laoee3ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW4GAMwEUSnfgXY4ODu6dpA5tswpwZ7NY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295940652160-7jvb5lp32ut3to78j9jn1v28laoee3ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
