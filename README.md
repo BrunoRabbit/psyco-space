@@ -1,16 +1,19 @@
 # psyco_space
 
-A new Flutter project.
+## Introdução 
+Este projeto tem como objetivo auxiliar profissionais psicologos na criação de fichas de acompanhamento durante todo o tratamento dos pacientes
 
-## Getting Started
+## Desenvolvimento
 
-This project is a starting point for a Flutter application.
+Utilizei Flutter e Dart para criar e desenvolver o projeto, utilizei também Firebase para banco de dados, alem de utilizar em versões anteriores, a api Busca CEP.
 
-A few resources to get you started if this is your first Flutter project:
+Tais funcionalidades podem ser encontradas no aplicativo:
+ - Registrar e Entrar no aplicativo, cria no banco tanto no Firebase Auth como no Firebase Firestore.
+ - Buscar pacientes a partir do nome.
+ - Editar informações do psicologo e do paciente.
+ - Ver informações do paciente ao clicar no card.
+ - Adicionar no banco as informações dos formularios do paciente, como Anamnese, Exame mental, e Registros de cada sessão. Tambem o histórico dos Registros.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Para mais informações me contacte via LinkedIn ou para testar a aplicação. 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://www.linkedin.com/in/bruno-coelho-2337741b5/
