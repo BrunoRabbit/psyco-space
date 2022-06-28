@@ -31,7 +31,9 @@ dependencies:
   cloud_firestore: ^3.1.13
   cupertino_icons: ^1.0.2
   dio: ^4.0.6
+  fake_cloud_firestore: ^1.2.3
   firebase_auth: ^3.3.15
+  firebase_auth_mocks: ^0.8.4
   firebase_core: ^1.15.0
   flip_card: ^0.6.0
   flutter:
@@ -41,6 +43,7 @@ dependencies:
   google_fonts: ^2.3.2
   provider: ^6.0.3
   table_calendar: ^3.0.5
+  test: ^1.19.5
 
 dev_dependencies:
   flutter_test:
